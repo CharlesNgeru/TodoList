@@ -1,5 +1,6 @@
 ## Todo List
 #Basic TodoList Web Application
+Live Demo - https://charlesngeru.github.io/TodoList/
 
 ## Motivation
 I made this project while I was learning jQuery and I wanted to use the library to reduce the amount of VanillaJS needed, and I succeeded in doing so, the web-application is awesome and the code is as "dry" as I could make it.
